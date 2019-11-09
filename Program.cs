@@ -17,7 +17,7 @@ namespace Cs408Project
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new Form1());
-            int x;
+            int x = 0;
         }
     }
 }
