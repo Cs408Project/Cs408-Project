@@ -1,1 +1,2 @@
 C:\Users\Oğuzhan Berberoğlu\Documents\GitHub\Cs408-Project\bin\Debug\Cs408Project.exe.config
+D:\Github\Cs408-Project\bin\Debug\Cs408Project.exe.config
